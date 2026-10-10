@@ -10,5 +10,6 @@ def main():
             if random.random() < 0.01:
                 print(line)
 
+# This is an arbitrary change to the script that does not change the behavior for part 4
 if __name__ == "__main__":
     main()
